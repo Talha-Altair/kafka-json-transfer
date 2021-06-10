@@ -46,5 +46,3 @@ cd CMAK/target/universal/cmak-3.0.0.5
 $ bin/cmak -Dconfig.file=conf/application.conf -Dhttp.port=8080
 ```
 
-
-  
